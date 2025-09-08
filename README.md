@@ -16,8 +16,6 @@ The app uses Java for the core logic and SQLite for local data persistence, maki
 3. UI: Android XML with Material Design Components
 
 
-<img width="1080" height="2400" alt="Screenshot_20250908_193116" src="https://github.com/user-attachments/assets/56d416c3-b357-4910-a54c-89aea3a48069" /> <br/>
+<img width="540" height="1200" alt="Screenshot_20250908_193254" src="https://github.com/user-attachments/assets/2fc257a8-1aaa-4a2d-943a-d310992b4b7b" />
+ <br/>
 
-<img width="1080" height="2400" alt="Screenshot_20250908_193041" src="https://github.com/user-attachments/assets/747810b6-282b-4914-ab89-df345d2fee5d" /> <br/>
-
-<img width="1080" height="2400" alt="Screenshot_20250908_193103" src="https://github.com/user-attachments/assets/aeb43357-a070-4da8-95d2-0bd1e31bf758" />
