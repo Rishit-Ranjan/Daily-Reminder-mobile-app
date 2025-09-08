@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Daily Reminder</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="save">Save</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="daily_reminders">Daily Reminders</string>
+    <string name="add_task">Add Task</string>
+    <string name="permission_denied_exact_alarms" />
+    <string name="no_reminders_yet_tap_the_button_to_add_one">No reminders yet.\nTap the \'+\' button to add one!</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description_goes_here">Task description goes here...</string>
+    <string name="_10_30_am">10:30 AM</string>
+</resources>
