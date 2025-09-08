@@ -13,9 +13,10 @@ The app uses Java for the core logic and SQLite for local data persistence, maki
 **Tech Stack**
 1. Language: Java
 2. Database: SQLite
-3. UI: Android XML with Material Design Components
+3. UI: Android XML with Material Design Components<br/>
 
 
-<img width="540" height="1200" alt="Screenshot_20250908_193254" src="https://github.com/user-attachments/assets/2fc257a8-1aaa-4a2d-943a-d310992b4b7b" />
+<img width="270" height="600" alt="Screenshot_20250908_193347" src="https://github.com/user-attachments/assets/4326ec3f-3ee5-4fb0-8aa5-87dd66bb1c75" />
+
  <br/>
 
