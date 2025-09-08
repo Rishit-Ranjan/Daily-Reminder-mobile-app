@@ -18,9 +18,6 @@ The app uses Java for the core logic and SQLite for local data persistence, maki
 
 <img width="270" height="600" alt="Screenshot_20250908_193347" src="https://github.com/user-attachments/assets/4326ec3f-3ee5-4fb0-8aa5-87dd66bb1c75" /> <br/>
 
-<img width="270" height="600" alt="Screenshot_20250908_193347" src="https://github.com/user-attachments/assets/4963bc37-fa10-4d4d-a374-b4458a33831c" /> <br/>
+<img width="270" height="600" alt="Screenshot_20250908_193437" src="https://github.com/user-attachments/assets/51e5d44c-b281-4292-9dcd-6d453b30c921" /> <br/>
 
-<img width="270" height="600" alt="Screenshot_20250908_193347" src="https://github.com/user-attachments/assets/01721f95-f28b-469a-a01a-d5ad4439187d" />
-
-
-
+<img width="270" height="600" alt="Screenshot_20250908_193518" src="https://github.com/user-attachments/assets/4418817f-8313-4911-922a-9d45e4fb6111" />
